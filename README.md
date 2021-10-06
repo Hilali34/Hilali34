@@ -1,6 +1,6 @@
 ### Salut tout le monde 👋
 
-je m'appel Hilali Abdelali je suis developpeur web junior depuis peu suite à ma formation chez openclassromms, j'aime apprendre et partager et je suis en rechrche active de mon premier post en tant de developpeur !
+Je m'appel Hilali Abdelali je suis developpeur web junior depuis peu suite à ma formation chez openclassromms, j'aime apprendre et partager et je suis en rechrche active de mon premier post en tant de developpeur !
 
 
 **Hilali34/Hilali34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
