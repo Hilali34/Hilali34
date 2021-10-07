@@ -13,8 +13,10 @@ Je m'appel Hilali Abdelali je suis développeur web junior depuis peu suite à m
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SEQUELIZE](https://img.shields.io/badge/Sequelize-40a4ec?style=for-the-badge&logo=sequelize&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![REDUX](https://img.shields.io/badge/Redux-8f57ef?style=for-the-badge&logo=redux&logoColor=white)
 
 
 <br/>
