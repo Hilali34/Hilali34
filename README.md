@@ -17,6 +17,8 @@ Je m'appel Hilali Abdelali je suis développeur web junior depuis peu suite à m
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![REDUX](https://img.shields.io/badge/Redux-8f57ef?style=for-the-badge&logo=redux&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 <br/>
